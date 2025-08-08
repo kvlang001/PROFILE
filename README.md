@@ -1,4 +1,4 @@
-# 💫 Alan Cyril Sunny
+# 💫 XANDER KULANG AROK
 
 ---
 
@@ -29,17 +29,17 @@
 
 ## 👾 About Me
 
-> **"Wake up, Samurai. We have code to write."**
+> **"Wake up, Wen Aroktiamthoon. We have code to write."**
 
 - 🎓 MSc Computer Science (**Data Analytics**)
 - 🧬 Interdisciplinary: **Physics, Chemistry, Math, CS**
-- 👨‍🏫 11+ yrs simplifying STEM as a **tutor**
+- 👨‍🏫 1+ yrs simplifying STEM as a **tutor**
 - 💻 Dev: `Java`, `Python`, `Kotlin`, `React`, `Next.js`
 - 🤖 Building **AI/ML** for science & tech
 - ⚡ GPU-accelerated AI for healthcare/science
 - 🦾 Created **Nyx**: cyberpunk AI chatbot (Google Gemini)
 - 🎮 Indie game dev: retro x modern
-- 🖥️ Linux since 2008: **Debian, Arch, FreeBSD, Pi**
+- 🖥️ Linux since 2023: **Debian, Arch, FreeBSD, Pi**
 - 🔐 Pentesting: **Kali, Parrot, Qubes, Tails**
 - ☁️ Cloud: **AWS, Azure, GCP, Docker, K8s**
 - 🌐 Networks, configs, prompt engineering
@@ -50,7 +50,7 @@
 ## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00fff7?style=for-the-badge&logo=linkedin&logoColor=ff00ea)](https://www.linkedin.com/in/alan-cyril-33aa8178/)
-[![Email](https://img.shields.io/badge/Email-alan_cyril%40yahoo.com-ff00ea?style=for-the-badge&logo=gmail&logoColor=00fff7)](mailto:alan_cyril@yahoo.com)
+[![Email](https://img.shields.io/badge/Email-alan_cyril%40yahoo.com-ff00ea?style=for-the-badge&logo=gmail&logoColor=00fff7)](mailto:ftgxander@proton.me)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00fff7?style=for-the-badge&logo=about-dot-me&logoColor=ff00ea)](https://alan-cyril-portfolio.vercel.app/)
 
 ---
